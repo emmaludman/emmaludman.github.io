@@ -1,1 +1,0 @@
-# Emma Ludman's Midterm
