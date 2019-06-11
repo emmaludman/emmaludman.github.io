@@ -1,0 +1,50 @@
+
+
+h1 {
+	text-align: center;
+	border-width: 7px;
+	border-style:solid;
+	border-color:black;
+	font-size:50px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-weight: bolder;
+	font-style: oblique;
+	color:black
+}
+
+
+
+
+body {
+	background-color:antiquewhite;
+	color:black;
+	font-size:30px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	text-align:center
+	}
+nav{align-content: center;
+font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+font-size: 25px}
+ul{list-style: none;
+	align-items: center;
+	font: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: black
+
+}
+
+
+
+.row {display:grid
+	flex-wrap:wrap;
+padding:0 4px;}
+.column{
+	flex:50%;
+	padding: 0 4px
+}
+.column img {
+	margin-top: 8px;
+	vertical-align: middle
+}
+
+
+
